@@ -28,7 +28,7 @@
      border-width: 0.1px;
      border-color: hsla(0, 0%, 100%, 0.53);
    }
-   .select-2-option {
+   .select-option {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
